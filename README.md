@@ -1,3 +1,3 @@
 # ingress-check
 
-A small embedded webserver to host the well-known data needed for federation delegation.
+A small embedded webserver to run a service check for an external loab balancer
